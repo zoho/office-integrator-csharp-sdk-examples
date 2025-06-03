@@ -11,13 +11,13 @@ You can include the SDK to your project using:
 
 - Clone this repository in your local machine.
    ```sh
-    git clone https://github.com/iampraba/zoi-csharp-sdk-examples.git
+    git clone https://github.com/zoho/office-integrator-csharp-sdk-examples.git
     ```
 
 - Install [**C# SDK**](https://www.nuget.org/packages/Zoho.OfficeIntegrator.SDK) and other dependencies then build the project
     - Navigate to the folder **zoi-csharp-sdk-examples**
         ```sh
-        cd zoi-csharp-sdk-examples/office-integrator-csharp-sdk-examples
+        cd office-integrator-csharp-sdk-examples/office-integrator-csharp-sdk-examples
         ```
 
     - Run the command below:
